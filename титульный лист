@@ -1,0 +1,44 @@
+\documentclass[a4paper]{article}
+\usepackage[14pt]{extsizes} % для того чтобы задать нестандартный 14-ый размер шрифта
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{setspace,amsmath}
+\usepackage[left=20mm, top=15mm, right=15mm, bottom=15mm, nohead, footskip=10mm]{geometry} % настройки полей документа
+ 
+\begin{document} % начало документа
+ 
+% НАЧАЛО ТИТУЛЬНОГО ЛИСТА
+\begin{center}
+\hfill \break
+\large{МИНИСТЕРСТВО ОБРАЗОВАНИЯ И НАУКИ РОССИЙСКОЙ ФЕДЕРАЦИИ}\\
+\footnotesize{ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ}\\ 
+\footnotesize{ВЫСШЕГО ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ}\\
+\small{\textbf{«БУРЯТСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ ИМ. ДОРЖИ БАНЗАРОВА»}}\\
+\hfill \break
+\normalsize{Институт математики, физики и компьютерных наук}\\
+ \hfill \break
+\normalsize{Кафедра общей и теоретичческой физики}\\
+\hfill\break
+\hfill \break
+\hfill \break
+\hfill \break
+\huge Реферат \\[0.6cm] % название работы, затем отступ 0,6см
+\large на тему:  <<Компьютерные вирусы>>\\[3.7cm]
+\hfill \break
+\hfill \break
+\end{center}
+ 
+\begin{flushright}
+    Выполнил: студент гр. 01430м \\
+    Данилова Виктория \\
+    \end{flushright}
+    
+    
+    \vfill 
+    
+    \begin{center} 
+    \large Улан-Удэ 2024
+    \end{center} 
+\thispagestyle{empty} % выключаем отображение номера для этой страницы
+ 
+% КОНЕЦ ТИТУЛЬНОГО ЛИСТА
