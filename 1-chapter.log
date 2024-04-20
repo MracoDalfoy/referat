@@ -1,0 +1,2390 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.6)  20 APR 2024 15:22
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex
+(c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: Undefined control sequence.
+l.1 \section
+            {Общие сведения о компьютерных вир�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{О
+               бщие сведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Об
+                 щие сведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character щ (U+0449)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общ
+                   ие сведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общи
+                     е сведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие
+                        сведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие с
+                          ведения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие св
+                            едения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие све
+                              дения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие свед
+                                ения о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведе
+                                  ния о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведен
+                                    ия о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведени
+                                      я о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведения
+                                         о компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведения о
+                                            компьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведения о к
+                                              омпьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведения о ко
+                                                мпьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{Общие сведения о ком
+                                                  пьютерных вир�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ion{Общие сведения о комп
+                                                  ьютерных виру�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...n{Общие сведения о компь
+                                                  ютерных вирус�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character ю (U+044E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...Общие сведения о компью
+                                                  терных вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...бщие сведения о компьют
+                                                  ерных вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...щие сведения о компьюте
+                                                  рных вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ие сведения о компьютер
+                                                  ных вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...е сведения о компьютерн
+                                                  ых вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... сведения о компьютерны
+                                                  х вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character х (U+0445)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...�ведения о компьютерных
+                                                   вирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...едения о компьютерных в
+                                                  ирусах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...дения о компьютерных ви
+                                                  русах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ения о компьютерных вир
+                                                  усах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ния о компьютерных виру
+                                                  сах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...ия о компьютерных вирус
+                                                  ах}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ...я о компьютерных вируса
+                                                  х}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:1: LaTeX Error: Unicode character х (U+0445)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ... о компьютерных вирусах
+                                                  }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: Undefined control sequence.
+l.3 \subsection
+               {Определение компьютерных вирусов}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{О
+                  пределение компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Оп
+                    ределение компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Опр
+                      еделение компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Опре
+                        деление компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Опред
+                          еление компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Опреде
+                            ление компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определ
+                              ение компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определе
+                                ние компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определен
+                                  ие компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определени
+                                    е компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение
+                                       компьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение к
+                                         омпьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение ко
+                                           мпьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение ком
+                                             пьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение комп
+                                               ьютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \subsection{Определение компь
+                                                 ютерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character ю (U+044E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...section{Определение компью
+                                                  терных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ction{Определение компьют
+                                                  ерных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ion{Определение компьюте
+                                                  рных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...n{Определение компьютер
+                                                  ных вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...Определение компьютерн
+                                                  ых вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...пределение компьютерны
+                                                  х вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character х (U+0445)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ределение компьютерных
+                                                   вирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�деление компьютерных в
+                                                  ирусов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�еление компьютерных ви
+                                                  русов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ление компьютерных вир
+                                                  усов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ение компьютерных виру
+                                                  сов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ние компьютерных вирус
+                                                  ов}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�ие компьютерных вирусо
+                                                  в}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:3: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...�е компьютерных вирусов
+                                                  }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character К (U+041A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 К
+      омпьютерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Ко
+        мпьютерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Ком
+          пьютерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Комп
+            ьютерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компь
+              ютерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ю (U+044E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компью
+                терные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьют
+                  ерные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьюте
+                    рные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютер
+                      ные вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерн
+                        ые вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерны
+                          е вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные
+                             вирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные в
+                               ирусы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные ви
+                                 русы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вир
+                                   усы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character у (U+0443)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные виру
+                                     сы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вирус
+                                       ы — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вирусы
+                                          — это программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вирусы —
+                                              это программы, р�...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character э (U+044D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вирусы — э
+                                                то программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 Компьютерные вирусы — эт
+                                                  о программы, р�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�пьютерные вирусы — это
+                                                   программы, ра�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ьютерные вирусы — это п
+                                                  рограммы, разр...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ютерные вирусы — это пр
+                                                  ограммы, разра...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...терные вирусы — это про
+                                                  граммы, разраб...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character г (U+0433)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ерные вирусы — это прог
+                                                  раммы, разрабо...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...рные вирусы — это прогр
+                                                  аммы, разработ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ные вирусы — это програ
+                                                  ммы, разработа...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ые вирусы — это програм
+                                                  мы, разработан...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...е вирусы — это программ
+                                                  ы, разработанн...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... вирусы — это программы
+                                                  , разработанны...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�русы — это программы, р
+                                                  азработанные �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�усы — это программы, ра
+                                                  зработанные д�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character з (U+0437)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�сы — это программы, раз
+                                                  работанные дл�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ы — это программы, разр
+                                                  аботанные для ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� — это программы, разра
+                                                  ботанные для н...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character б (U+0431)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...— это программы, разраб
+                                                  отанные для на...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� это программы, разрабо
+                                                  танные для нан...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...это программы, разработ
+                                                  анные для нане...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...то программы, разработа
+                                                  нные для нанес...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...о программы, разработан
+                                                  ные для нанесе...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... программы, разработанн
+                                                  ые для нанесен...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�рограммы, разработанны
+                                                  е для нанесени...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ограммы, разработанные
+                                                   для нанесения...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...граммы, разработанные д
+                                                  ля нанесения в...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...раммы, разработанные дл
+                                                  я нанесения вр...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...аммы, разработанные для
+                                                   нанесения вре...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�мы, разработанные для н
+                                                  анесения вред�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ы, разработанные для на
+                                                  несения вреда ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�, разработанные для нан
+                                                  есения вреда к...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... разработанные для нане
+                                                  сения вреда ко...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�азработанные для нанес
+                                                  ения вреда ком...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�зработанные для нанесе
+                                                  ния вреда комп...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�работанные для нанесен
+                                                  ия вреда компь...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�аботанные для нанесени
+                                                  я вреда компью...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ботанные для нанесения
+                                                   вреда компьют...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...отанные для нанесения в
+                                                  реда компьюте�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...танные для нанесения вр
+                                                  еда компьютер�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...анные для нанесения вре
+                                                  да компьютерн�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...нные для нанесения вред
+                                                  а компьютерны�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ные для нанесения вреда
+                                                   компьютерным ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�е для нанесения вреда к
+                                                  омпьютерным с�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� для нанесения вреда ко
+                                                  мпьютерным си�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...для нанесения вреда ком
+                                                  пьютерным сис�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ля нанесения вреда комп
+                                                  ьютерным сист�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ь (U+044C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...я нанесения вреда компь
+                                                  ютерным систе�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ю (U+044E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... нанесения вреда компью
+                                                  терным систем�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�анесения вреда компьют
+                                                  ерным система�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�несения вреда компьюте
+                                                  рным системам,...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�есения вреда компьютер
+                                                  ным системам, �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�сения вреда компьютерн
+                                                  ым системам, а ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ения вреда компьютерны
+                                                  м системам, а т...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ния вреда компьютерным
+                                                   системам, а та...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ия вреда компьютерным с
+                                                  истемам, а так�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...я вреда компьютерным си
+                                                  стемам, а такж�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character с (U+0441)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... вреда компьютерным сис
+                                                  темам, а также ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�реда компьютерным сист
+                                                  емам, а также д...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�еда компьютерным систе
+                                                  мам, а также дл...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�да компьютерным систем
+                                                  ам, а также для...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�а компьютерным система
+                                                  м, а также для �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character м (U+043C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� компьютерным системам
+                                                  , а также для к�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...омпьютерным системам, а
+                                                   также для кра�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character т (U+0442)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�пьютерным системам, а т
+                                                  акже для кражи...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ьютерным системам, а та
+                                                  кже для кражи �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ютерным системам, а так
+                                                  же для кражи и�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�терным системам, а такж
+                                                  е для кражи ил�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ерным системам, а также
+                                                   для кражи или ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...рным системам, а также д
+                                                  ля кражи или п�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ным системам, а также дл
+                                                  я кражи или по�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ым системам, а также для
+                                                   кражи или пов�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character к (U+043A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� системам, а также для к
+                                                  ражи или повре...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...системам, а также для кр
+                                                  ажи или повреж...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...истемам, а также для кра
+                                                  жи или поврежд...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...стемам, а также для краж
+                                                  и или поврежде...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...темам, а также для кражи
+                                                   или поврежден...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�мам, а также для кражи и
+                                                  ли повреждени�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character л (U+043B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�ам, а также для кражи ил
+                                                  и повреждения ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�м, а также для кражи или
+                                                   повреждения д...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character п (U+043F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ..., а также для кражи или п
+                                                  овреждения да�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character о (U+043E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...а также для кражи или по
+                                                  вреждения дан�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character в (U+0432)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... также для кражи или пов
+                                                  реждения данн�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character р (U+0440)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�акже для кражи или повр
+                                                  еждения данны�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�кже для кражи или повре
+                                                  ждения данных....
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ж (U+0436)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�же для кражи или повреж
+                                                  дения данных. �...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�е для кражи или поврежд
+                                                  ения данных. О�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character е (U+0435)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� для кражи или поврежде
+                                                  ния данных. Он�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...для кражи или поврежден
+                                                  ия данных. Они ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ля кражи или повреждени
+                                                  я данных. Они в...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character я (U+044F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...я кражи или повреждения
+                                                   данных. Они вн...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character д (U+0434)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...кражи или повреждения д
+                                                  анных. Они вне�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character а (U+0430)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ражи или повреждения да
+                                                  нных. Они внед�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...ажи или повреждения дан
+                                                  ных. Они внедр�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...жи или повреждения данн
+                                                  ых. Они внедря�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character ы (U+044B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...и или повреждения данны
+                                                  х. Они внедряю�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character х (U+0445)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... или повреждения данных
+                                                  . Они внедряют�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no . in font nullfont!
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character О (U+041E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...�и повреждения данных. О
+                                                  ни внедряются ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character н (U+043D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...� повреждения данных. Он
+                                                  и внедряются в...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5: LaTeX Error: Unicode character и (U+0438)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...повреждения данных. Они
+                                                   внедряются в �...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 48 strings out of 474424
+ 885 string characters out of 5741740
+ 1925496 words of memory out of 5000000
+ 22494 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 17i,0n,20p,674b,46s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/Users/newir/Documents/GitHub/bsu-referat-template-latex/1-chapter.tex:5:  ==> Fatal error occurred, no output PDF file produced!

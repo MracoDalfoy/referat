@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Введение}{2}{}%
+\contentsline {section}{\numberline {2}Общие сведения о компьютерных вирусах}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Определение компьютерных вирусов}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Классификация компьютерных вирусов}{5}{}%
+\contentsline {section}{\numberline {3}Методы защиты информации от вирусов}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Профилактические мероприятия}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Антивирусное программное обеспечение}{9}{}%
+\contentsline {section}{\numberline {4}Заключение}{10}{}%
+\contentsline {section}{Список литературы}{11}{}%

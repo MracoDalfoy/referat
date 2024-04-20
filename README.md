@@ -1,1 +1,1 @@
-# referat
+# bsu-referat-template-latex
